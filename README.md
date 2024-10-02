@@ -2,16 +2,15 @@
 
 ## Visão Geral
 
-Este é um aplicativo **React Native** para o **Hotel Fazenda Sol Nascente**, um hotel fictício localizado em um ambiente natural belo. O aplicativo fornece uma interface simples e intuitiva para os usuários:
+Este é um aplicativo **React Native** para o **Hotel Fazenda Sol Nascente**, um hotel fictício localizado em um ambiente natural. O aplicativo fornece uma interface simples e intuitiva para os usuários:
 
-- Reservarem um quarto
+- Fazerem o cadastro e reservarem um quarto
 - Fazerem check-in
 - Fazerem check-out
 
 ## Recursos
 
 - Imagem de fundo bonita do entorno do hotel
-- Mensagem de boas-vindas e chamada à ação para reservar um quarto
 - Logotipo e título do hotel
 - Três botões para:
   - **Fazer uma reserva** (navega para a tela "Escolher")
@@ -56,7 +55,8 @@ Para clonar o repositório, siga os passos abaixo:
 
    ```bash
    git clone https://github.com/hlenarocha/hotel-fazenda-sol-nascente.git
-``
+```
+
 3. Pressione Enter para executar o comando.
 4. O repositório será clonado para a pasta atual.
 
