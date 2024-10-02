@@ -67,7 +67,7 @@ Para fazer push para o repositório, siga os passos abaixo:
 2. Navegue para a pasta do repositório clonado usando o comando:
 
 ```bash
-cd hotel-fazenda-sol-nascente
+cd sol-nascente-front
 ```
 
 3. Faça as alterações necessárias no código do aplicativo.
