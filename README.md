@@ -54,7 +54,7 @@ Para clonar o repositório, siga os passos abaixo:
 2. Digite o comando:
 
 ```bash
-   git clone https://github.com/hlenarocha/hotel-fazenda-sol-nascente.git
+   git clone https://github.com/hlenarocha/sol-nascente-front.git
 ```
 
 3. Pressione Enter para executar o comando.
